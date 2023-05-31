@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Cats</string>
+    <string name="name">Cat breeds</string>
+    <string name="image_url">https://cdn2.thecatapi.com/images/</string>
+</resources>
